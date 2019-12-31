@@ -3,4 +3,3 @@
 ![./docs/artificial-intelligence-with-python-ja.png](./docs/artificial-intelligence-with-python-ja.png)
 
 # ToDo
-- [ ] コメント書く!!
