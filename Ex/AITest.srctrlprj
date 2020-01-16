@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <source_groups>
+        <source_group_90f0eae4-c0c0-49ef-98de-a93bc0e19a9a>
+            <name>Python Source Group</name>
+            <python_environment_path>../../../anaconda3/</python_environment_path>
+            <source_extensions>
+                <source_extension>.py</source_extension>
+            </source_extensions>
+            <source_paths>
+                <source_path>./</source_path>
+            </source_paths>
+            <status>enabled</status>
+            <type>Python Source Group</type>
+        </source_group_90f0eae4-c0c0-49ef-98de-a93bc0e19a9a>
+    </source_groups>
+    <version>8</version>
+</config>
